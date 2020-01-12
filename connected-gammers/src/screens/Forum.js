@@ -1,6 +1,9 @@
 import React from 'react';
 import Header from '../component/Header';
 
+
+
+
 const Forum = () => (
     <div>
         <Header title="Forum" />
@@ -13,5 +16,7 @@ const Forum = () => (
         </div>
     </div>
 );
+
+
 
 export default Forum;
